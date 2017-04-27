@@ -1,0 +1,5 @@
+MONGO_USER_ADMIN=nikhil_hetal
+MONGO_PASS_ADMIN=teresa
+
+MONGO_REPLICA_ADMIN=replicaAdmin
+MONGO_PASS_REPLICA=replicaAdminPassword2017
